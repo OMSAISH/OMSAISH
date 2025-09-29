@@ -63,16 +63,18 @@
 
 <br/>
 
-<!-- Stats Section Only (No Snake) -->
+<!-- Snake Game -->
 <div align="center">
   
-## 📊 GitHub Stats
+## 🐍 Contribution Snake Game
 
-![Omsaish's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMSAISH&show_icons=true&theme=radical)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OMSAISH&layout=compact&theme=radical)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OMSAISH&theme=radical)
+![Snake animation](https://github.com/OMSAISH/OMSAISH/blob/output/github-contribution-grid-snake.svg)
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=OMSAISH&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
