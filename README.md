@@ -72,7 +72,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/OMSAISH/OMSAISH/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/OMSAISH/OMSAISH/output/github-contribution-grid-snake.svg)
 
 </div>
 
