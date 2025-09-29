@@ -2,33 +2,31 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v3
         
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: OMSAISH
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
           
-      - name: Deploy to Output Branch
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: ${{ steps.snake-gif.outputs.snake_gif_generated == 'true' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
           publish_dir: ./dist
+          publish_branch: output
           force_orphan: true
