@@ -3,6 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omsaish+Dhokchaule!;" />
 </div>
 
+<div align="center">
+  
+🌟 **CSE'28 | 🚀 Java Learner | 💻 Web Development Enthusiast | 🌍 Open Source Contributor**  
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <!-- About Me -->
@@ -12,22 +18,16 @@
 
 </div>
 
-<div align="center">
-  
-✨ **Computer Engineering Student | Passionate Developer | Continuous Learner** ✨
-
-</div>
-
-<br>
-
 - 🎓 **Computer Engineering Student** at Sanjivani University
 - 🔭 Currently working on **SKY AGRO - Agricultural Management Platform**
 - 🌱 Learning **Advanced Java, DSA, Flask, and Learning Analytics Tools**
 - 💼 **Technical Proficiency**: CSS, Python, C, Java, HTML, JavaScript, C++
+- 💕 Open to collaborate on **Web Development & Java-based projects**
+- 🎯 Interested in **innovation and exploring new technologies**
 - 📫 Reach me at: **omsaishdhokchaule24@sanjivani.edu.in**
 - ⚡ Fun fact: **Active member of Japanese Language Club!**
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -116,10 +116,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Technologies
-![Orange](https://img.shields.io/badge/Orange-FF6F00?style=for-the-badge&logo=orange&logoColor=white)
-![Weka](https://img.shields.io/badge/Weka-00A98F?style=for-the-badge)
-![ProM](https://img.shields.io/badge/ProM-8A2BE2?style=for-the-badge)
-![iSAT](https://img.shields.io/badge/iSAT-FF69B4?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -139,6 +138,7 @@
 ![DSA](https://img.shields.io/badge/DSA-Java-yellow?style=for-the-badge)
 ![Computer Networks](https://img.shields.io/badge/Computer_Networks-Advanced-blue?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Backend-Flask_Python-green?style=for-the-badge)
+![Analytics Tools](https://img.shields.io/badge/Analytics-Orange_Weka_ProM-purple?style=for-the-badge)
 
 </div>
 
@@ -214,6 +214,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omsaishdhokchaule24@sanjivani.edu.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omsaish-dhokchaule-9a536431b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OMSAISH)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/OMSAISH)
 
 </div>
 
@@ -243,6 +244,8 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=OMSAISH&color=blueviolet&style=flat)
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+<br/>
+
+**⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House**
 
 </div>
