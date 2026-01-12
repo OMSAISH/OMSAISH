@@ -1,11 +1,11 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omsaish+Dhokchaule!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanjivani+More!;" />
 </div>
 
 <div align="center">
   
-🌟 **CSE'28 | 🚀 Java Learner | 💻 Web Development Enthusiast | 🌍 Open Source Contributor**  
+🌟 **CY'28 | 🚀 Java Learner | 💻 Web Development Enthusiast | 🌍 Open Source Contributor**  
 
 </div>
 
@@ -18,67 +18,18 @@
 
 </div>
 
-- 🎓 **Computer Engineering Student** at Sanjivani University
-- 🔭 Currently working on **SKY AGRO - Agricultural Management Platform**
-- 🌱 Learning **Advanced Java, DSA, Flask, and Learning Analytics Tools**
+- 🎓 **Cyber Security Student** at Sanjivani University
+- 🔭 Currently working on **“Mediscan AI : Drugs Research System”**
+- 🌱 Learning **Advanced Java, DSA, Flask, and Learning Analytics Tool, E-Business**
 - 💼 **Technical Proficiency**: CSS, Python, C, Java, HTML, JavaScript, C++
 - 💕 Open to collaborate on **Web Development & Java-based projects**
 - 🎯 Interested in **innovation and exploring new technologies**
-- 📫 Reach me at: **omsaishdhokchaule24@sanjivani.edu.in**
+- 📫 Reach me at: **sanjivani.more24@sanjivani.edu.in**
 - ⚡ Fun fact: **Active member of Japanese Language Club!**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<!-- GitHub Stats -->
-<div align="center">
-  
-## 📊 GitHub Stats
 
-</div>
-
-<div align="center">
-
-![Omsaish's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMSAISH&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OMSAISH&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OMSAISH&theme=radical)
-
-</div>
-
-<br/>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  
-## 🏆 GitHub Trophies
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=OMSAISH&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<!-- Snake Game -->
-<div align="center">
-  
-## 🐍 Contribution Snake Game
-
-</div>
-
-<div align="center">
-
-![Snake animation](https://github.com/OMSAISH/OMSAISH/blob/output/github-contribution-grid-snake.svg)
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=OMSAISH&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
-<br/>
 
 <!-- Technical Skills -->
 <div align="center">
@@ -198,10 +149,10 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omsaishdhokchaule24@sanjivani.edu.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omsaish-dhokchaule-9a536431b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjivani.more24@sanjivani.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjivani-more-ab4008343/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OMSAISH)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/OMSAISH)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/sanjivanimore2605)
 
 </div>
 
@@ -229,7 +180,7 @@
 
 ### 💝 Thanks for visiting my profile!
 
-![Visitor Count](https://komarev.com/ghpvc/?username=OMSAISH&color=blueviolet&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=&color=blueviolet&style=flat)
 
 <br/>
 
