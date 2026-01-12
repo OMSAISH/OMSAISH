@@ -89,9 +89,10 @@
 
 </div>
 
-### 🌱 SKY AGRO - Agricultural Management Platform
-**Duration:** 10 Nov 2025  
-**Description:** Created a modular platform for agricultural operations including billing, payments, dealer & stock management, boosting collaboration and resource tracking.
+### Mediscan AI : Drugs Research System
+**Duration:** 05 Jan 2026  
+**Description:** Created a modular platform multi-agent AI system capable of autonomously analyzing clinical trials, patents, scientific literature, and market data simultaneously for drug repurposing opportunities.
+
 
 **Tech Stack:** `Java` `Spring Boot` `MySQL` `HTML/CSS` `JavaScript`
 
