@@ -1,238 +1,446 @@
-<!-- Header Section -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omsaish+Dhokchaule!;" />
-</div>
-
-<div align="center">
-  
-🌟 **CSE'28 | 🚀 Java Learner | 💻 Web Development Enthusiast | 🌍 Open Source Contributor**  
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-<!-- About Me -->
-<div align="center">
-  
-# 🚀 About Me
-
-</div>
-
-- 🎓 **Computer Engineering Student** at Sanjivani University
-- 🔭 Currently working on **SKY AGRO - Agricultural Management Platform**
-- 🌱 Learning **Advanced Java, DSA, Flask, and Learning Analytics Tools**
-- 💼 **Technical Proficiency**: CSS, Python, C, Java, HTML, JavaScript, C++
-- 💕 Open to collaborate on **Web Development & Java-based projects**
-- 🎯 Interested in **innovation and exploring new technologies**
-- 📫 Reach me at: **omsaishdhokchaule24@sanjivani.edu.in**
-- ⚡ Fun fact: **Active member of Japanese Language Club!**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-<!-- GitHub Stats -->
-<div align="center">
-  
-## 📊 GitHub Stats
-
-</div>
-
-<div align="center">
-
-![Omsaish's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMSAISH&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OMSAISH&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OMSAISH&theme=radical)
-
-</div>
-
-<br/>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  
-## 🏆 GitHub Trophies
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=OMSAISH&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<!-- Snake Game -->
-<div align="center">
-  
-## 🐍 Contribution Snake Game
-
-</div>
-
-<div align="center">
-
-![Snake animation](https://github.com/OMSAISH/OMSAISH/blob/output/github-contribution-grid-snake.svg)
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=OMSAISH&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
-<br/>
-
-<!-- Technical Skills -->
-<div align="center">
-  
-## 🛠️ Technical Proficiency
-
-</div>
-
-<div align="center">
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- Currently Learning -->
-<div align="center">
-  
-## 📚 Currently Learning
-
-</div>
-
-<div align="center">
-
-![Advanced Java](https://img.shields.io/badge/Advanced_Java-Lambda_Expressions-orange?style=for-the-badge)
-![Stream API](https://img.shields.io/badge/Java-Stream_API-red?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-Java-yellow?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-Advanced-blue?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Backend-Flask_Python-green?style=for-the-badge)
-![Analytics Tools](https://img.shields.io/badge/Analytics-Orange_Weka_ProM-purple?style=for-the-badge)
-
-</div>
-
-<br/>
-
-<!-- Projects -->
-<div align="center">
-  
-## 💼 Projects
-
-</div>
-
-### 🌱 SKY AGRO - Agricultural Management Platform
-**Duration:** 10 Nov 2025  
-**Description:** Created a modular platform for agricultural operations including billing, payments, dealer & stock management, boosting collaboration and resource tracking.
-
-**Tech Stack:** `Java` `Spring Boot` `MySQL` `HTML/CSS` `JavaScript`
-
-<br/>
-
-<!-- Certifications -->
-<div align="center">
-  
-## 🏆 Certifications
-
-</div>
-
-<div align="center">
-
-| Platform | Certifications |
-|----------|----------------|
-| **Coursera** | Project Network Certificates |
-| **LinkedIn Learning** | Multiple Certificates |
-| **Sololearn** | Introduction to C++ |
-| **Cisco** | Introduction to Cybersecurity |
-| **MongoDB** | MongoDB Certificates |
-| **Future Skill Prime** | Digital 101 Journey |
-| **HP LIFE** | HP LIFE Certificates |
-| **Tata** | Imagination Challenge |
-
-</div>
-
-<br/>
-
-<!-- Leadership & Activities -->
-<div align="center">
-  
-## 🌟 Leadership & Activities
-
-</div>
-
-### 🎯 Positions of Responsibility
-- **Member of ACE** – Association of Computer Engineering at Sanjivani University
-  - Responsible for event arrangements and technical coordination
-- **Member of Rotaract Club** – Sanjivani University
-  - Led community service initiatives and team events
-
-### 🎨 Extra Curricular Activities
-- **Japanese Language Club** - Active member
-- **Language Proficiency**: Marathi, Hindi, English, Japanese
-
-<br/>
-
-<!-- Contact Info -->
-<div align="center">
-  
-## 📫 Connect With Me
-
-</div>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omsaishdhokchaule24@sanjivani.edu.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omsaish-dhokchaule-9a536431b)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OMSAISH)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/OMSAISH)
-
-</div>
-
-<br/>
-
-<!-- Fun Facts -->
-<div align="center">
-  
-## 🎯 Fun Facts
-
-</div>
-
-- 🌍 **Multilingual** - Fluent in Marathi, Hindi, English, and learning Japanese
-- 🤝 **Community Driven** - Active in Rotaract Club and community service
-- 🎮 **Tech Enthusiast** - Love exploring new technologies and frameworks
-- 📚 **Continuous Learner** - Always upgrading skills with certifications
-- 🌱 **Agriculture Tech** - Passionate about technology solutions for agriculture
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-### 💝 Thanks for visiting my profile!
-
-![Visitor Count](https://komarev.com/ghpvc/?username=OMSAISH&color=blueviolet&style=flat)
-
-<br/>
-
-**⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House**
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>Omsaish Dhokchaule | Cybersecurity & Dev Portfolio</title>
+    <!-- Google Fonts + Font Awesome -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #f8fafc;
+            color: #0f172a;
+            line-height: 1.5;
+            scroll-behavior: smooth;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        /* glassmorphism / cards */
+        .card {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(0px);
+            border-radius: 28px;
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.02);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            border: 1px solid rgba(203, 213, 225, 0.5);
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.12);
+            border-color: #cbd5e1;
+        }
+
+        section {
+            margin-bottom: 56px;
+        }
+
+        .section-title {
+            font-size: 1.9rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            background: linear-gradient(135deg, #0f2b3d, #1e4a6e);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            border-left: 5px solid #2563eb;
+            padding-left: 18px;
+            margin-bottom: 28px;
+        }
+
+        .hero {
+            background: linear-gradient(145deg, #ffffff 0%, #f1f5f9 100%);
+            border-radius: 2rem;
+            padding: 2rem 2rem 2rem 2rem;
+            margin-top: 32px;
+            margin-bottom: 48px;
+            border: 1px solid #e2e8f0;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.02);
+        }
+
+        .badge {
+            background: #eef2ff;
+            color: #1e40af;
+            padding: 6px 14px;
+            border-radius: 40px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s;
+        }
+
+        .skill-tag {
+            background: white;
+            border: 1px solid #cbd5e1;
+            padding: 5px 14px;
+            border-radius: 30px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: #1e293b;
+            transition: all 0.2s;
+        }
+
+        .skill-tag:hover {
+            background: #2563eb;
+            color: white;
+            border-color: #2563eb;
+        }
+
+        .cert-category {
+            background: #f9fafb;
+            border-radius: 24px;
+            padding: 1.2rem;
+            height: 100%;
+            border-left: 4px solid #3b82f6;
+        }
+
+        .cert-category h3 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .cert-list {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .cert-list li {
+            margin-bottom: 10px;
+            font-size: 0.85rem;
+            display: flex;
+            align-items: baseline;
+            gap: 8px;
+        }
+
+        .cert-list li i {
+            color: #2563eb;
+            font-size: 0.75rem;
+            margin-top: 4px;
+        }
+
+        .grid-2, .grid-3 {
+            display: grid;
+            gap: 1.8rem;
+        }
+
+        .grid-2 {
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        }
+
+        .grid-3 {
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        }
+
+        .project-card, .exp-card {
+            padding: 1.5rem;
+        }
+
+        .project-title, .exp-title {
+            font-weight: 800;
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .project-stack, .exp-date {
+            font-size: 0.8rem;
+            color: #475569;
+            margin-bottom: 12px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .btn-outline {
+            border: 1px solid #2563eb;
+            background: transparent;
+            padding: 6px 14px;
+            border-radius: 40px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: #2563eb;
+            transition: 0.2s;
+            display: inline-block;
+        }
+
+        .btn-outline:hover {
+            background: #2563eb;
+            color: white;
+        }
+
+        .contact-icon {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: white;
+            padding: 8px 20px;
+            border-radius: 60px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+            transition: 0.2s;
+            text-decoration: none;
+            color: #1e293b;
+            font-weight: 500;
+        }
+
+        .contact-icon i {
+            font-size: 1.2rem;
+            color: #2563eb;
+        }
+
+        .contact-icon:hover {
+            background: #2563eb;
+            color: white;
+            transform: translateY(-2px);
+        }
+        .contact-icon:hover i {
+            color: white;
+        }
+
+        footer {
+            border-top: 1px solid #e2e8f0;
+            padding: 32px 0;
+            text-align: center;
+            color: #475569;
+            margin-top: 48px;
+        }
+
+        @media (max-width: 680px) {
+            .container {
+                padding: 0 20px;
+            }
+            .section-title {
+                font-size: 1.6rem;
+            }
+            .hero {
+                padding: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Hero Section -->
+        <div class="hero">
+            <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 20px;">
+                <div>
+                    <h1 style="font-size: 2.8rem; font-weight: 800; letter-spacing: -0.02em; background: linear-gradient(120deg, #0f2b3d, #2563eb); background-clip: text; -webkit-background-clip: text; color: transparent;">Omsaish Dhokchaule</h1>
+                    <p style="font-size: 1.2rem; color: #2c3e66; margin-top: 8px; font-weight: 500;">Cybersecurity Enthusiast | Developer | B.Tech CSE (2028)</p>
+                    <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 20px;">
+                        <a href="mailto:omsaish.dhokchaule24@sanjivani.edu.in" class="contact-icon"><i class="fas fa-envelope"></i> Email</a>
+                        <a href="https://linkedin.com/in/omsaish-dhokchaule" target="_blank" class="contact-icon"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                        <a href="#" class="contact-icon"><i class="fas fa-phone-alt"></i> +91-8308504363</a>
+                    </div>
+                </div>
+                <div>
+                    <div class="badge"><i class="fas fa-shield-alt"></i> Security+ Ready</div>
+                    <div class="badge" style="margin-top: 8px;"><i class="fas fa-code"></i> Java | Python | C++</div>
+                </div>
+            </div>
+            <p style="margin-top: 28px; font-size: 1rem; color: #334155; max-width: 85%; border-left: 3px solid #3b82f6; padding-left: 18px;">Passionate cybersecurity & software engineering student with hands-on penetration testing experience, full-stack mindset, and a drive to build secure, scalable systems. Certified in multiple cloud/security domains, actively contributing to tech communities.</p>
+        </div>
+
+        <!-- Education + Coursework combined -->
+        <section>
+            <h2 class="section-title"><i class="fas fa-graduation-cap" style="margin-right: 12px; color: #2563eb;"></i> Education & Coursework</h2>
+            <div class="grid-2">
+                <div class="card" style="padding: 1.5rem;">
+                    <h3 style="font-size: 1.5rem; font-weight: 700;">B.Tech CSE</h3>
+                    <p style="color: #2563eb; font-weight: 600;">Sanjivani University • Expected 2028</p>
+                    <p style="margin-top: 8px;">Second Year Student | Focus: Cybersecurity, Algorithms, Cloud Computing</p>
+                </div>
+                <div class="card" style="padding: 1.5rem;">
+                    <h3 style="font-weight: 700; margin-bottom: 12px;">📚 Core Coursework</h3>
+                    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+                        <span class="skill-tag">Design & Analysis of Algorithms</span>
+                        <span class="skill-tag">Network Security</span>
+                        <span class="skill-tag">Compiler Design</span>
+                        <span class="skill-tag">IoT</span>
+                        <span class="skill-tag">Operating System</span>
+                        <span class="skill-tag">DBMS</span>
+                        <span class="skill-tag">Blockchain</span>
+                        <span class="skill-tag">Software Engineering</span>
+                        <span class="skill-tag">Mobile App Dev</span>
+                        <span class="skill-tag">Computer Graphics</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Technical Skills -->
+        <section>
+            <h2 class="section-title"><i class="fas fa-cogs"></i> Technical Arsenal</h2>
+            <div class="card" style="padding: 1.8rem;">
+                <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between;">
+                    <div><strong>💻 Languages:</strong> Java, Python, C++, C, JavaScript, HTML/CSS</div>
+                    <div><strong>🛠️ Tools & OS:</strong> Kali Linux, VS Code, Git, Wireshark, Nmap, Metasploit, Burp Suite</div>
+                    <div><strong>🗄️ Databases:</strong> MySQL, MongoDB, DBMS</div>
+                </div>
+                <hr style="margin: 20px 0; border-color: #e2e8f0;">
+                <div><strong>🔐 Security Stack:</strong> Threat Modeling, Vulnerability Assessment, Penetration Testing, Cryptography Basics, Microsoft Defender XDR, GitHub Advanced Security</div>
+            </div>
+        </section>
+
+        <!-- Experience -->
+        <section>
+            <h2 class="section-title"><i class="fas fa-briefcase"></i> Experience</h2>
+            <div class="card exp-card">
+                <div class="exp-title">Cybersecurity Intern <span style="font-weight: 500; font-size: 1rem;">@ SyntecHub (Remote)</span></div>
+                <div class="exp-date"><i class="far fa-calendar-alt"></i> 2025 · 1 month intensive | <i class="fas fa-tools"></i> Kali Linux, Nmap, Wireshark, Metasploit</div>
+                <ul style="margin-top: 12px; margin-left: 20px; color: #1e293b; display: flex; flex-direction: column; gap: 8px;">
+                    <li>✅ Completed hands-on training in threat modeling, vulnerability assessment, and security best practices in a focused intensive program.</li>
+                    <li>✅ Gained practical experience with Kali Linux tools (Nmap, Metasploit, Burp Suite) to identify network vulnerabilities in controlled labs.</li>
+                    <li>✅ Performed vulnerability scanning & penetration testing exercises, documenting findings and security weaknesses.</li>
+                    <li>✅ Studied cryptography fundamentals & secure network configuration, applying encryption techniques in ethical hacking labs.</li>
+                    <li>✅ Developed foundational ethical hacking methodologies, preparing for advanced certs & real-world security projects.</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Projects (SKY AGRO + VAPT Lab based on internship) -->
+        <section>
+            <h2 class="section-title"><i class="fas fa-folder-open"></i> Featured Projects</h2>
+            <div class="grid-2">
+                <div class="card project-card">
+                    <div class="project-title">🌾 SKY AGRO — Agricultural Operations Platform</div>
+                    <div class="project-stack"><span class="badge">Java</span><span class="badge">DBMS</span><span class="badge">MySQL</span><span>Nov 2024</span></div>
+                    <ul style="margin-left: 18px; color: #334155;">
+                        <li>Modular platform streamlining billing, payments, inventory & dealer management for agri-business.</li>
+                        <li>Designed relational schemas for product inventory, transaction records, and real-time stock visibility.</li>
+                        <li>Improved collaboration between suppliers and distributors via dealer management modules.</li>
+                    </ul>
+                </div>
+                <div class="card project-card">
+                    <div class="project-title">🛡️ Vulnerability Assessment & Penetration Testing Lab</div>
+                    <div class="project-stack"><span class="badge">Kali Linux</span><span class="badge">Nmap</span><span class="badge">Metasploit</span><span class="badge">Wireshark</span><span>2025</span></div>
+                    <ul style="margin-left: 18px; color: #334155;">
+                        <li>Simulated real-world network penetration tests in isolated lab environments using industry-standard tools.</li>
+                        <li>Executed reconnaissance, vulnerability scanning, and exploitation phases; documented risk assessments.</li>
+                        <li>Applied secure configuration principles and cryptography basics to strengthen defense strategies.</li>
+                        <li>Built detailed reports to communicate vulnerabilities and remediation steps.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Certifications & Training (structured) -->
+        <section>
+            <h2 class="section-title"><i class="fas fa-certificate"></i> Certifications & Badges</h2>
+            <div class="grid-3">
+                <div class="cert-category">
+                    <h3><i class="fas fa-shield-virus"></i> Cybersecurity & Cloud</h3>
+                    <ul class="cert-list">
+                        <li><i class="fas fa-check-circle"></i> Microsoft SC-200: Mitigate Threats using Defender XDR</li>
+                        <li><i class="fas fa-check-circle"></i> Microsoft GitHub Advanced Security</li>
+                        <li><i class="fas fa-check-circle"></i> Cisco: Introduction to Cybersecurity</li>
+                        <li><i class="fas fa-check-circle"></i> Forage Cybersecurity Job Simulation</li>
+                        <li><i class="fas fa-check-circle"></i> AWS Training & Certifications</li>
+                    </ul>
+                </div>
+                <div class="cert-category">
+                    <h3><i class="fas fa-code"></i> Programming & Development</h3>
+                    <ul class="cert-list">
+                        <li><i class="fas fa-check-circle"></i> Java OOP - Object Oriented Programming (Udemy 2025)</li>
+                        <li><i class="fas fa-check-circle"></i> Python Programming Masterclass (Udemy)</li>
+                        <li><i class="fas fa-check-circle"></i> Infosys Online Python Training</li>
+                        <li><i class="fas fa-check-circle"></i> SoloLearn: Intro to C++</li>
+                        <li><i class="fas fa-check-circle"></i> MongoDB Certificates</li>
+                    </ul>
+                </div>
+                <div class="cert-category">
+                    <h3><i class="fas fa-brain"></i> AI & Data Science</h3>
+                    <ul class="cert-list">
+                        <li><i class="fas fa-check-circle"></i> Google Gemini Certified University Student</li>
+                        <li><i class="fas fa-check-circle"></i> IBM Data Science 101</li>
+                        <li><i class="fas fa-check-circle"></i> Be10X AI Tools Workshop</li>
+                        <li><i class="fas fa-check-circle"></i> Coursera Project Network Certificates</li>
+                    </ul>
+                </div>
+                <div class="cert-category">
+                    <h3><i class="fas fa-chalkboard-user"></i> Professional Development</h3>
+                    <ul class="cert-list">
+                        <li><i class="fas fa-check-circle"></i> Future Skill Prime: Digital 101 Journey</li>
+                        <li><i class="fas fa-check-circle"></i> HP LIFE Certificates</li>
+                        <li><i class="fas fa-check-circle"></i> Tata Imagination Challenge</li>
+                        <li><i class="fas fa-check-circle"></i> Unstop Certificates</li>
+                        <li><i class="fas fa-check-circle"></i> LinkedInLearning Certificates</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Leadership & Responsibilities -->
+        <section>
+            <h2 class="section-title"><i class="fas fa-users"></i> Leadership & Community</h2>
+            <div class="grid-2">
+                <div class="card" style="padding: 1.5rem;">
+                    <h3><i class="fas fa-microchip"></i> ACE (Association of Computer Engineering)</h3>
+                    <p style="margin-top: 6px;">Member (2024 – Present) · Sanjivani University</p>
+                    <p>Coordinated logistics and technical arrangements for coding competitions, workshops, and tech talks with 100+ participants. Strengthened peer learning and event management.</p>
+                </div>
+                <div class="card" style="padding: 1.5rem;">
+                    <h3><i class="fas fa-hands-helping"></i> Rotaract Club</h3>
+                    <p style="margin-top: 6px;">Member (2025 – Present) · Community Service Lead</p>
+                    <p>Led community initiatives focused on education & environmental awareness, collaborated with team members to drive social impact projects and volunteering drives.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Extra-Curricular & Languages -->
+        <section>
+            <h2 class="section-title"><i class="fas fa-globe"></i> Beyond Tech</h2>
+            <div class="card" style="padding: 1.5rem; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+                <div>
+                    <i class="fas fa-language" style="color: #2563eb; font-size: 1.4rem;"></i>
+                    <strong style="margin-left: 8px;">Languages</strong>
+                    <p style="margin-top: 8px;">🇮🇳 Marathi (Native) · 🇮🇳 Hindi (Fluent) · 🇬🇧 English (Fluent) · 🇯🇵 Japanese (Basic)</p>
+                </div>
+                <div>
+                    <i class="fas fa-torii-gate" style="color: #2563eb; font-size: 1.4rem;"></i>
+                    <strong style="margin-left: 8px;">Japanese Language Club</strong>
+                    <p style="margin-top: 8px;">Active member expanding cultural & linguistic horizons, exploring Japanese traditions and language proficiency.</p>
+                </div>
+                <div>
+                    <i class="fas fa-certificate" style="color: #2563eb;"></i>
+                    <strong> Other Credentials</strong>
+                    <p style="margin-top: 6px;">Google Gemini Certified, SC-200 training, AWS Cloud Practitioner track, Forage simulations</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact & Availability -->
+        <section>
+            <div class="card" style="background: linear-gradient(115deg, #f1f5f9 0%, #ffffff 100%); padding: 2rem; text-align: center;">
+                <h3 style="font-size: 1.6rem; font-weight: 700;">Let’s Connect & Secure the Future</h3>
+                <p style="margin: 12px 0;">Open to cybersecurity collaborations, development roles, and research opportunities.</p>
+                <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 18px; margin-top: 24px;">
+                    <a href="mailto:omsaish.dhokchaule24@sanjivani.edu.in" class="btn-outline" style="text-decoration: none;"><i class="fas fa-envelope"></i> omsaish.dhokchaule24@sanjivani.edu.in</a>
+                    <a href="https://linkedin.com/in/omsaish-dhokchaule" target="_blank" class="btn-outline" style="text-decoration: none;"><i class="fab fa-linkedin"></i> LinkedIn Profile</a>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <p>© 2025 Omsaish Dhokchaule — Built with precision | Cybersecurity & Engineering Portfolio</p>
+            <p style="font-size: 0.75rem; margin-top: 8px;"><i class="fas fa-shield-alt"></i> “Secure code, resilient systems”</p>
+        </footer>
+    </div>
+</body>
+</html>
